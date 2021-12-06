@@ -1,2 +1,2 @@
-# github
-GitHub Wiki 
+# GitHub
+GitHub Wiki and command reference
